@@ -56,3 +56,4 @@ x = 5.5
 y = 100
 z = y*(10.00-x)
 print(z)
+print(x)
