@@ -55,5 +55,15 @@ print("지금부터 "+ username +"님을 위한 클라스를 시작할게요")
 x = 5.5
 y = 100
 z = y*(10.00-x)
-print(z)
 print(x)
+print(y)
+print(z)
+
+
+#Boolin
+print(1==1)
+print(1==2)
+print(1<2)
+print(1>2)
+print(True)
+print(False)
