@@ -59,7 +59,6 @@ print(x)
 print(y)
 print(z)
 
-
 #Boolin
 print(1==1)
 print(1==2)
@@ -67,3 +66,30 @@ print(1<2)
 print(1>2)
 print(True)
 print(False)
+
+#Condition Statements
+if True:
+    print("Code1")
+    print("Code2")
+print("Code3")
+
+#------------------
+input = 12345
+real = 12346
+if real == input:
+    print("Hello!")
+else:
+    print("Sorry!")
+
+#------------------
+input = 12345
+real_1 = 12346
+real_2 = 12347
+if real_1 == input:
+    print("Hello real_1!")
+elif real_2 == input:
+        print("Hello real_2!")
+else:
+    print("Sorry!")
+
+#논리연산자
